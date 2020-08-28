@@ -14,7 +14,6 @@ public class JokeTeller
 
     public void TellJokes()
     {
-        Scanner scanner = new Scanner(System.in);
 
         while(true)
         {

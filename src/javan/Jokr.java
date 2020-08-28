@@ -10,6 +10,11 @@ public class Jokr
             "Dead joke."
     };
 
+    public Jokr(String[] jokes)
+    {
+        this.jokes = jokes;
+    }
+
     /**
      * Method returns a string from jokes String array
      */

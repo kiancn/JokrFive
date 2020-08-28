@@ -7,7 +7,7 @@ public class Jokr
             "Are you a Rabbi? Please walk into a bar.",
             "Donkey balls.",
             "Sane people to not read jokes.",
-            "Catalyst"
+            "Dead joke."
     };
 
     /**
